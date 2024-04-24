@@ -1,0 +1,10 @@
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+Pods/
+Carthage/
+*.lock
+*.swp
+*.log

@@ -1,0 +1,81 @@
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "409-de-fNe"; */
+"409-de-fNe.placeholder" = "username";
+
+/* Class = "UITextField"; placeholder = "confirm password"; ObjectID = "8hX-Ro-O3B"; */
+"8hX-Ro-O3B.placeholder" = "confirm password";
+
+/* Class = "UIButton"; configuration.title = "Delete"; ObjectID = "Bg8-Il-1QI"; */
+"Bg8-Il-1QI.configuration.title" = "Delete";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bg8-Il-1QI"; */
+"Bg8-Il-1QI.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "Fah-H1-PiC"; */
+"Fah-H1-PiC.placeholder" = "password";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "MGG-Up-glJ"; */
+"MGG-Up-glJ.text" = "Select Language";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "O38-47-xEF"; */
+"O38-47-xEF.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O38-47-xEF"; */
+"O38-47-xEF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "OrG-fo-aSz"; */
+"OrG-fo-aSz.text" = "Logout";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "QW7-A8-3MF"; */
+"QW7-A8-3MF.title" = "Settings";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "TXJ-F3-z2y"; */
+"TXJ-F3-z2y.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "Todos"; ObjectID = "YwS-br-zah"; */
+"YwS-br-zah.title" = "Todos";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "Z85-Y5-yDt"; */
+"Z85-Y5-yDt.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Z85-Y5-yDt"; */
+"Z85-Y5-yDt.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "dWE-11-C99"; */
+"dWE-11-C99.title" = "Title";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "dZw-cW-Isb"; */
+"dZw-cW-Isb.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dZw-cW-Isb"; */
+"dZw-cW-Isb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "There are no items in the list, add a new item please"; ObjectID = "hA7-A4-ARM"; */
+"hA7-A4-ARM.text" = "There are no items in the list, add a new item please";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "okY-tf-d6o"; */
+"okY-tf-d6o.placeholder" = "email";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "pcb-c3-EU3"; */
+"pcb-c3-EU3.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pcb-c3-EU3"; */
+"pcb-c3-EU3.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "qeB-3d-0fU"; */
+"qeB-3d-0fU.placeholder" = "password";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "uhw-Zw-niC"; */
+"uhw-Zw-niC.text" = "Description";
+
+/* Class = "UILabel"; text = "Done"; ObjectID = "wxB-E5-gu6"; */
+"wxB-E5-gu6.text" = "Done";
+
+/* Class = "UILabel"; text = "Dark Theme"; ObjectID = "xV0-Wo-Yt3"; */
+"xV0-Wo-Yt3.text" = "Dark Theme";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "xzj-Nc-wnX"; */
+"xzj-Nc-wnX.placeholder" = "email";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "y5t-gZ-Wdx"; */
+"y5t-gZ-Wdx.text" = "Don't have an account?";

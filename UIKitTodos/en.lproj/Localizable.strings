@@ -1,0 +1,44 @@
+"email" = "e-mail";
+"password" = "password";
+"login" = "login";
+"don't have an account?" = "Don't have an account?";
+"register" = "Register";
+
+"login failed" = "Login failed";
+"there was an error" = "There was an error";
+"ok" = "Ok";
+
+"username" = "username";
+"confirm password" = "Confirm Password";
+
+"error" = "Error";
+"cancel" = "Cancel";
+
+"title" = "Title";
+"description" = "Description";
+"done" = "Done";
+
+"registration" = "Registration";
+"registration ok" = "Congratulations, registration was successful, you can now log in";
+"registration ko" = "There was an during user registration, try again please";
+
+"todos" = "Todos";
+
+"create" = "Create";
+"update" = "Update";
+"delete" = "Delete";
+
+"error retrieving" = "We're sorry, an error occurred while loading.";
+"error creating" = "We're sorry, an error occurred while creating this item.";
+"error updating" = "We're sorry, an error occurred while updating this item.";
+"error deleting" = "We're sorry, an error occurred while deleting this item.";
+
+"settings" = "Settings";
+"theme" = "Dark Theme";
+"select lang" = "Select Language";
+
+"en" = "English";
+"it" = "Italian";
+
+"logout" = "Logout";
+"logout message" = "Are you sure you want to quit?";
