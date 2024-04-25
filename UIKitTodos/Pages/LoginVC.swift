@@ -28,8 +28,9 @@ class LoginVC: UIViewControllerWithSpinner {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        configureForm()
         configureLabels()
+        configureForm()
+        configureKeyboard()
         changeLanguageObserver()
     }
     
@@ -50,6 +51,17 @@ class LoginVC: UIViewControllerWithSpinner {
         loginBtn.setTitle("login".translate(), for: .normal)
         questionLbl.text = "don't have an account?".translate()
         registerBtn.setTitle("register".translate(), for: .normal)
+    }
+    
+    /// Configures the keyboard dismissal behavior by adding a tap gesture recognizer to the view.
+    private func configureKeyboard(){
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+        view.addGestureRecognizer(tapGesture)
+    }
+    
+    /// Dismisses the keyboard by ending the editing in the view.
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
     }
     
     /// Configures the login form UI elements.

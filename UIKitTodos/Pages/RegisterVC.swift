@@ -31,7 +31,19 @@ class RegisterVC: UIViewControllerWithSpinner {
         configureNavBar()
         configureLabels()
         configureForm()
+        configureKeyboard()
         changeLanguageObserver()
+    }
+    
+    /// Configures the keyboard dismissal behavior by adding a tap gesture recognizer to the view.
+    private func configureKeyboard(){
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+        view.addGestureRecognizer(tapGesture)
+    }
+    
+    /// Dismisses the keyboard by ending the editing in the view.
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
     }
     
     /// Observes the language change notification.
