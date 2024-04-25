@@ -8,3 +8,5 @@ Carthage/
 *.lock
 *.swp
 *.log
+.DS_Store
+Thumbs.db
